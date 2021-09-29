@@ -31,12 +31,6 @@ Real time data to see newly infected, recovered, and deaths.
 - [Credits](#Credits)
 - [License](#License)
 
-## Business_Context
-
-```
-Front-End focused facebook clone build with utilization of firebase firestore databse for back-end service.
-```
-
 ## Code Utilization:
 
 - Language Count: ![](https://img.shields.io/github/languages/count/masonkimm/covid-19-tracker)
